@@ -6,5 +6,6 @@
 #define PROJETJEU_GAMESURFACE_H
 
 void drawSurface();
-
+void clearScreen();
+void initGame();
 #endif //PROJETJEU_GAMESURFACE_H

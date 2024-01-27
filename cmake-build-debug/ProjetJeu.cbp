@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ProjetJeu"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/micka/dev/jeuC/jeu_C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProjetJeu">
+				<Option output="/home/micka/dev/jeuC/jeu_C/cmake-build-debug/ProjetJeu" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/micka/dev/jeuC/jeu_C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProjetJeu"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProjetJeu/fast">
+				<Option output="/home/micka/dev/jeuC/jeu_C/cmake-build-debug/ProjetJeu" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/micka/dev/jeuC/jeu_C/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProjetJeu/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/micka/dev/jeuC/jeu_C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/micka/dev/jeuC/jeu_C/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/home/micka/dev/jeuC/jeu_C/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/micka/dev/jeuC/jeu_C/animations/roadScrolling.c">
+			<Option target="ProjetJeu"/>
+		</Unit>
+		<Unit filename="/home/micka/dev/jeuC/jeu_C/animations/roadScrolling.h">
+			<Option target="ProjetJeu"/>
+		</Unit>
+		<Unit filename="/home/micka/dev/jeuC/jeu_C/gameSurface.c">
+			<Option target="ProjetJeu"/>
+		</Unit>
+		<Unit filename="/home/micka/dev/jeuC/jeu_C/gameSurface.h">
+			<Option target="ProjetJeu"/>
+		</Unit>
+		<Unit filename="/home/micka/dev/jeuC/jeu_C/main.c">
+			<Option target="ProjetJeu"/>
+		</Unit>
+		<Unit filename="/home/micka/dev/jeuC/jeu_C/parameter/configuration.h">
+			<Option target="ProjetJeu"/>
+		</Unit>
+		<Unit filename="/home/micka/dev/jeuC/jeu_C/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

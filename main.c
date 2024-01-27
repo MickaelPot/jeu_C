@@ -1,7 +1,12 @@
-#include <stdio.h>
 #include "gameSurface.h"
+#include "animations/roadScrolling.h"
 
 int main() {
-    drawSurface();
+
+    //initGame();
+    //clearScreen();
+
+    scrolling_bande_laterale();
+
     return 0;
 }

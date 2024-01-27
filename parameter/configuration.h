@@ -21,4 +21,9 @@ static const int SHOW_POINT_HAUTEUR= 20;
 static const char UP_DOWN_SHOW_POINT= '=';
 static const char LEFT_RIGHT_SHOW_POINT= '|';
 
+//Parametres du jeu
+static const int LARGEUR_VOITURE=5;
+static const int LONGUEUR_VOITURE=3;
+static const int PADDING_CAR_PLAYER=2;
+
 #endif //PROJETJEU_CONFIGURATION_H
