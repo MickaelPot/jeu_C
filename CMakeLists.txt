@@ -9,4 +9,6 @@ add_executable(ProjetJeu main.c
         parameter/configuration.h
         animations/roadScrolling.c
         animations/roadScrolling.h
+        sprites/road.h
+        sprites/car.h
 )

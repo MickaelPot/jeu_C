@@ -7,4 +7,6 @@
 
 void scrolling_bande_laterale();
 
+void jeuVoiture();
+
 #endif //PROJETJEU_ROADSCROLLING_H

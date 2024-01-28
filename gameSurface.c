@@ -7,17 +7,18 @@
 #include "parameter/configuration.h"
 
 int carPosition= (GAME_LARGEUR - LARGEUR_VOITURE) / 2;
-
+/*
 //LA IL FAUT FAIRE UN TABLEAU DE TABLEAU DE CHAR*
 char* spriteCar(){
-    char *car = malloc(30);
-    car=
-        "[]-[]\n"
-        " |#| \n"
-        "[]-[]\n";
+    char car[3][4];
+    car[0]="[]-[]";
+    car[1]=" |#| ";
+    car[2]="[]-[]";
+
     return car;
 }
-
+ */
+/*
 void drawSurface (){
     for(int i =0; i<GAME_LARGEUR;i++){
         for(int j=0; j< GAME_HAUTEUR; j++){
@@ -37,11 +38,12 @@ void drawSurface (){
     printf(spriteCar());
     printf("%i",carPosition);
 }
+*/
 
 void initGame(){
     for(int i =0; i<GAME_LARGEUR;i++) {
         if(i==(GAME_HAUTEUR-LONGUEUR_VOITURE)){
-            printf(spriteCar());
+           // printf(spriteCar());
         }else{
             for (int j = 0; j < GAME_HAUTEUR; j++) {
                 if (i == 0 || i == GAME_LARGEUR - 1) {

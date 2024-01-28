@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/ProjetJeu.dir/main.c.o CMakeFiles/ProjetJeu.dir/gameSurface.c.o CMakeFiles/ProjetJeu.dir/animations/roadScrolling.c.o -o ProjetJeu 

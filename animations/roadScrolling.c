@@ -5,6 +5,10 @@
 #include <stdio.h>
 #include <unistd.h>
 
+
+
+
+
 #define WIDTH 20
 #define DELAY 200000 // Délai en microsecondes entre chaque étape du chenillard
 
@@ -39,4 +43,14 @@ void scrolling_bande_laterale() {
             current_light++; // Déplacer le pointeur vers la lumière suivante
         }
     }
+}
+
+
+
+
+
+
+void jeuVoiture(){
+
+
 }

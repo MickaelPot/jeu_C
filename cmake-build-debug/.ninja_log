@@ -1,4 +1,7 @@
 # ninja log v5
-0	15	1706039151530834561	CMakeFiles/ProjetJeu.dir/gameSurface.c.o	f35c5b1653d31c15
-15	28	1706039151542834596	ProjetJeu	e89ec86f2ba64803
-0	15	1706038292245724627	CMakeFiles/ProjetJeu.dir/main.c.o	1187ee0fae1c4290
+0	11	1706466216777296888	CMakeFiles/ProjetJeu.dir/sprites/road.c.o	30bd58b227b0be48
+0	20	1706466284473222781	CMakeFiles/ProjetJeu.dir/gameSurface.c.o	f35c5b1653d31c15
+23	39	1706466392153165971	ProjetJeu	2a2fe016cc61c288
+1	10	1706466233333233003	CMakeFiles/ProjetJeu.dir/sprites/car.c.o	9483f838741d83a3
+0	19	1706394517421946551	CMakeFiles/ProjetJeu.dir/animations/roadScrolling.c.o	f317f22677e81b12
+0	23	1706466392137165983	CMakeFiles/ProjetJeu.dir/main.c.o	1187ee0fae1c4290

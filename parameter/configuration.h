@@ -24,6 +24,10 @@ static const char LEFT_RIGHT_SHOW_POINT= '|';
 //Parametres du jeu
 static const int LARGEUR_VOITURE=5;
 static const int LONGUEUR_VOITURE=3;
-static const int PADDING_CAR_PLAYER=2;
+static const int MARGING_CAR=2;
+static const int LARGEUR_ROUTE= 100;
+static const int LONGUEUR_ROUTE= 18;
+static const int LARGEUR_SEGMENT= 10;
+static const int LARGEUR_TRAIT= 1;
 
 #endif //PROJETJEU_CONFIGURATION_H

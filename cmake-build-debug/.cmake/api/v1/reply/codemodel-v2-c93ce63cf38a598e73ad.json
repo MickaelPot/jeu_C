@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ProjetJeu::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ProjetJeu-Debug-7467e86d764b1c46adad.json",
+					"jsonFile" : "target-ProjetJeu-Debug-11b583f9d855a8bc2433.json",
 					"name" : "ProjetJeu",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/micka/dev/jeuC/jeu_C/cmake-build-debug",
-		"source" : "/home/micka/dev/jeuC/jeu_C"
+		"build" : "/media/micka/Developpement/cours/C/ProjetJeu/cmake-build-debug",
+		"source" : "/media/micka/Developpement/cours/C/ProjetJeu"
 	},
 	"version" : 
 	{
